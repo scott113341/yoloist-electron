@@ -1,0 +1,27 @@
+{
+  "info": {
+    "name": "Scott Hardy",
+    "website": "https://www.scotthardy.me",
+    "email": "scott.the.hardy@gmail.com"
+  },
+  "tags": [
+    "all",
+    "code"
+  ],
+
+  /**
+   * contains all posts (just metadata)
+   * all xml feeds can be derived from this metadata
+   * some xml feeds are derived by default
+   */
+  "posts": [
+    {
+      "id": "asdfoyoyiu2ralnsdfoiunyads6oifnasydilfua",
+      "published": 148204789124,
+      "tags": [
+        "all",
+        "code"
+      ]
+    }
+  ]
+}
