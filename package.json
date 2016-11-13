@@ -2,6 +2,7 @@
   "name": "yoloist-electron",
   "author": "Scott Hardy",
   "license": "MIT",
+  "main": "main.js",
   "private": true,
   "scripts": {
     "start": "electron ."
@@ -16,6 +17,7 @@
     "babel-preset-stage-0": "6.16.0",
     "babel-register": "6.18.0",
     "ipfsd-ctl": "0.17.0",
+    "superagent": "2.3.0",
     "xstream": "7.0.0"
   },
   "devDependencies": {

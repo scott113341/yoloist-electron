@@ -1,4 +1,5 @@
 {
+  "id": "QmYqeEx5au4a2Chwe37VmWiEFzvUc8iFQDKyLctHToreCH",
   "info": {
     "name": "Scott Hardy",
     "website": "https://www.scotthardy.me",
@@ -8,12 +9,6 @@
     "all",
     "code"
   ],
-
-  /**
-   * contains all posts (just metadata)
-   * all xml feeds can be derived from this metadata
-   * some xml feeds are derived by default
-   */
   "posts": [
     {
       "id": "asdfoyoyiu2ralnsdfoiunyads6oifnasydilfua",
