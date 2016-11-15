@@ -5,6 +5,7 @@
   "main": "main.js",
   "private": true,
   "scripts": {
+    "reset": "git clean -xf ipfs/** public/**",
     "start": "electron ."
   },
   "dependencies": {
